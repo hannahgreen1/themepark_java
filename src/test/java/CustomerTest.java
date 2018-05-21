@@ -36,4 +36,6 @@ public class CustomerTest {
     public void hasMoney(){
         assertEquals(50, customer.getMoney());
     }
+
+
 }

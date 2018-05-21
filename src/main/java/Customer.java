@@ -1,4 +1,4 @@
-public class Customer {
+public class Customer{
     private String name;
     private String type;
     private int age;
@@ -32,4 +32,7 @@ public class Customer {
     public int getMoney(){
         return money;
     }
+//    public String customerRide(String network) {
+//        return String.format("%s is on %s", name, );
+//    }
 }
